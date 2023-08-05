@@ -30,7 +30,7 @@ body {
   }
 
   .yes:hover {
-    background-image: url("mine.png");
+    background-image: url("https://github.com/ZennixHifumi/askingtobeegf.github.io/blob/94012f0a783ea6a657183c04eb528293a110aa3e/mine.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -51,7 +51,7 @@ body {
   }
 
   .no:hover {
-    background-image: url("love.png");
+    background-image: url("https://github.com/ZennixHifumi/askingtobeegf.github.io/blob/94012f0a783ea6a657183c04eb528293a110aa3e/love.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
