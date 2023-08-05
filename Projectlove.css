@@ -30,7 +30,7 @@ body {
   }
 
   .yes:hover {
-    background-image: url("/needimage.html/mine.png");
+    background-image: url("mine.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -51,7 +51,7 @@ body {
   }
 
   .no:hover {
-    background-image: url("/needimage.html/love.png");
+    background-image: url("love.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
